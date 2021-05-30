@@ -1,8 +1,9 @@
 # Beacon Levi
-Programmable ATTiny85 CW keyer
+Programmable ATtiny85 CW keyer
 
+- Uses Digispark library
 - Small form factor
 - USB serial programmable
-- Runs on 5-30V
-- Configurable 1-99 WPM
+- DC 5-30V (With regulator on Digispark)
+- Configurable 5-20 WPM+
 - 510 character message storage (EEPROM size - 2)
