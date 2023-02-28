@@ -1,4 +1,4 @@
-#include <EEPROM.h>
+#include <EEPROM.h> // You must copy EEPROM directory from Arduino core
 #include <DigiCDC.h>
 
 #include "morsym.h" // ITU morse symbol table
